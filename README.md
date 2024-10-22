@@ -2,8 +2,6 @@
 
 # Attribution Algorithm Ensemble (AttEns)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Documentation](https://img.shields.io/badge/docs-latest-brightgreen.svg)](https://github.com/KxPlaug/AttEns)
 
 ## Introduction
 
@@ -30,11 +28,6 @@ The *Attribution Algorithm Ensemble (AttEns)* framework integrates multiple attr
 - numpy
 - matplotlib
 - jupyter (for running notebooks)
-
-To install the necessary dependencies, you can use:
-```bash
-pip install -r requirements.txt
-```
 
 ### Dataset
 
@@ -94,11 +87,6 @@ The experimental results in our paper demonstrate the superior performance of th
 |       LA      	|   0.646301   	| 0.067499 	|  0.549666 	| 0.047156 	| 0.437295 	|  0.03378 	| 0.704771 	| 0.208705 	|          602          	|   1170   	|
 | AttEns (Ours) 	|   0.735599   	| 0.033247 	|  0.610617 	| 0.029891 	| 0.521829 	| 0.028776 	| 0.728149 	| 0.117611 	|          229          	|    236   	|
 
-For more details on the experiments, refer to our paper or the [results](https://github.com/KxPlaug/AttEns/results) folder.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 **Citation**:
 ```
